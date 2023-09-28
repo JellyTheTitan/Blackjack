@@ -8,3 +8,7 @@ Running the file `bj_engine.py` will require you to use either option:
 
 - Download the latest Python installer [here](python.org/downloads).
 - Create an account (if you don't already have one) and run it on [Replit](replit.com/~).
+
+## P.S...
+You might cringe at the code, as I made it over a year ago when I didn't understand
+the concept of efficiency.
